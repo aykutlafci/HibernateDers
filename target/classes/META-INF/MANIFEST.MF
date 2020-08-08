@@ -1,0 +1,28 @@
+Manifest-Version: 1.0
+Built-By: Aykut
+Class-Path: HibernateDers-0.0.1-SNAPSHOT.lib/hibernate-core-6.0.0.Alph
+ a2.jar HibernateDers-0.0.1-SNAPSHOT.lib/jboss-logging-3.3.2.Final.jar
+  HibernateDers-0.0.1-SNAPSHOT.lib/javax.persistence-api-2.2.jar Hiber
+ nateDers-0.0.1-SNAPSHOT.lib/javassist-3.24.0-GA.jar HibernateDers-0.0
+ .1-SNAPSHOT.lib/byte-buddy-1.9.5.jar HibernateDers-0.0.1-SNAPSHOT.lib
+ /antlr4-4.7.1.jar HibernateDers-0.0.1-SNAPSHOT.lib/antlr4-runtime-4.7
+ .1.jar HibernateDers-0.0.1-SNAPSHOT.lib/antlr-runtime-3.5.2.jar Hiber
+ nateDers-0.0.1-SNAPSHOT.lib/ST4-4.0.8.jar HibernateDers-0.0.1-SNAPSHO
+ T.lib/org.abego.treelayout.core-1.0.3.jar HibernateDers-0.0.1-SNAPSHO
+ T.lib/javax.json-1.0.4.jar HibernateDers-0.0.1-SNAPSHOT.lib/icu4j-58.
+ 2.jar HibernateDers-0.0.1-SNAPSHOT.lib/jboss-transaction-api_1.2_spec
+ -1.1.1.Final.jar HibernateDers-0.0.1-SNAPSHOT.lib/jandex-2.0.5.Final.
+ jar HibernateDers-0.0.1-SNAPSHOT.lib/classmate-1.3.4.jar HibernateDer
+ s-0.0.1-SNAPSHOT.lib/javax.activation-api-1.2.0.jar HibernateDers-0.0
+ .1-SNAPSHOT.lib/dom4j-2.1.1.jar HibernateDers-0.0.1-SNAPSHOT.lib/hibe
+ rnate-commons-annotations-5.1.0.Final.jar HibernateDers-0.0.1-SNAPSHO
+ T.lib/jaxb-api-2.3.1.jar HibernateDers-0.0.1-SNAPSHOT.lib/jaxb-runtim
+ e-2.3.1.jar HibernateDers-0.0.1-SNAPSHOT.lib/txw2-2.3.1.jar Hibernate
+ Ders-0.0.1-SNAPSHOT.lib/istack-commons-runtime-3.0.7.jar HibernateDer
+ s-0.0.1-SNAPSHOT.lib/stax-ex-1.8.jar HibernateDers-0.0.1-SNAPSHOT.lib
+ /FastInfoset-1.2.15.jar HibernateDers-0.0.1-SNAPSHOT.lib/commons-logg
+ ing-1.2.jar HibernateDers-0.0.1-SNAPSHOT.lib/postgresql-9.1-901.jdbc4
+ .jar
+Build-Jdk: 1.8.0_152
+Created-By: Maven Integration for Eclipse
+
